@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Digital Resume">
-    <title>Your Name - Digital Resume</title>
+    <title>Mohasien- Digital Resume</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -84,11 +84,11 @@
 <body>
 
 <header>
-    <h1>Your Name</h1>
-    <h2>Job Title / Professional Title</h2>
+    <h1>Mohasien Alingan</h1>
+    <h2>Full Stack Developer</h2>
     <div class="contact-info">
-        <p>Email: your.email@example.com | Phone: +1234567890 | Location: City, Country</p>
-        <p>Website: <a href="https://your-website.com" target="_blank">www.your-website.com</a></p>
+        <p>Email: mohasienalingan@gmail.com | Phone: +639705764525| Location: Manila, Philippine</p>
+        <p>Website: <a href="https://resume.com" target="_blank">www.resumecom</a></p>
     </div>
 </header>
 
@@ -98,10 +98,10 @@
     <section id="skills">
         <h2>Skills</h2>
         <ul>
-            <li>Skill 1</li>
-            <li>Skill 2</li>
-            <li>Skill 3</li>
-            <li>Skill 4</li>
+            <li>Understanding systems and networks</li>
+            <li>Full Stack Develop</li>
+            <li>Database management</li>
+            <li>Network configuration</li>
         </ul>
     </section>
 
@@ -110,14 +110,16 @@
         <h2>Professional Experience</h2>
         <ul>
             <li>
-                <strong>Job Title</strong> at Company Name
-                <br><span>Month Year - Month Year</span>
-                <p>Brief description of responsibilities and achievements.</p>
+                <strong>IT Support</strong> ITY Company
+                <br><span>September 2027 - June 2030</span>
+                <p>troubleshooting hardware, software, and network issues.</p>
+                <p>Successfully reduced average resolution time for IT support tickets by 30% through streamlined troubleshooting procedures.</p>
             </li>
             <li>
-                <strong>Job Title</strong> at Company Name
-                <br><span>Month Year - Month Year</span>
-                <p>Brief description of responsibilities and achievements.</p>
+                <strong>WebDeveloper</strong> Grab Holdings
+                <br><span>July 2030 - December 2035</span>
+                <p>HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js.</p>
+                <p>Integrated third-party APIs, enhancing the functionality of client websites and enabling features like payment gateways and real-time data syncing.</p>
             </li>
         </ul>
     </section>
@@ -127,14 +129,12 @@
         <h2>Education</h2>
         <ul>
             <li>
-                <strong>Degree</strong>, University Name
-                <br><span>Month Year - Month Year</span>
-                <p>Relevant coursework or accomplishments.</p>
-            </li>
-            <li>
-                <strong>Degree</strong>, University Name
-                <br><span>Month Year - Month Year</span>
-                <p>Relevant coursework or accomplishments.</p>
+                <strong>BSIT- Mobile and Internet</strong>, Asia Pacific College
+                <br><span>August 2023 - September 2027</span>
+                <p>CompTIA A+.</p>
+                <p>Microsoft Certified: Azure Fundamentals</p>
+                <p>AWS Certified Cloud Practitioner</p>
+                <p>Google IT Support Professional Certificate</p>
             </li>
         </ul>
     </section>
@@ -144,13 +144,8 @@
         <h2>Projects</h2>
         <ul>
             <li>
-                <strong>Project Title</strong>
-                <br><a href="https://link-to-project.com" target="_blank">Project Link</a>
-                <p>Brief description of the project and technologies used.</p>
-            </li>
-            <li>
-                <strong>Project Title</strong>
-                <br><a href="https://link-to-project.com" target="_blank">Project Link</a>
+                <strong>E-PASS</strong>
+                <br><a href="https://EPASS.com" target="_blank">EPASS.com</a>
                 <p>Brief description of the project and technologies used.</p>
             </li>
         </ul>
@@ -159,7 +154,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2024 Your Name | <a href="mailto:your.email@example.com">Contact Me</a></p>
+    <p>&copy; 2024 Mohasien Alingan | <a href="mailto:your.email@example.com">Email: mohasienalingan@gmail.com \n LinkedIn:mdalingan2@student.apc.edu.ph</a></p>
 </footer>
 
 </body>
