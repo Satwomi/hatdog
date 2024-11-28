@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Digital Resume">
+    <title>Your Name - Digital Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        header h2 {
+            font-weight: normal;
+            margin: 5px 0;
+        }
+        .container {
+            width: 80%;
+            max-width: 1000px;
+            margin: 30px auto;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+        .contact-info p, .skills ul, .experience ul, .education ul, .projects ul {
+            margin: 5px 0;
+        }
+        .skills ul, .experience ul, .education ul, .projects ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .skills li, .experience li, .education li, .projects li {
+            background-color: #fff;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+        .skills li {
+            background-color: #e6f7ff;
+        }
+        .experience li {
+            background-color: #f0f0f0;
+        }
+        .education li {
+            background-color: #fff3e6;
+        }
+        .projects li {
+            background-color: #e6ffe6;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+        footer a {
+            color: #ffa500;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Your Name</h1>
+    <h2>Job Title / Professional Title</h2>
+    <div class="contact-info">
+        <p>Email: your.email@example.com | Phone: +1234567890 | Location: City, Country</p>
+        <p>Website: <a href="https://your-website.com" target="_blank">www.your-website.com</a></p>
+    </div>
+</header>
+
+<div class="container">
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Skill 1</li>
+            <li>Skill 2</li>
+            <li>Skill 3</li>
+            <li>Skill 4</li>
+        </ul>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience">
+        <h2>Professional Experience</h2>
+        <ul>
+            <li>
+                <strong>Job Title</strong> at Company Name
+                <br><span>Month Year - Month Year</span>
+                <p>Brief description of responsibilities and achievements.</p>
+            </li>
+            <li>
+                <strong>Job Title</strong> at Company Name
+                <br><span>Month Year - Month Year</span>
+                <p>Brief description of responsibilities and achievements.</p>
+            </li>
+        </ul>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li>
+                <strong>Degree</strong>, University Name
+                <br><span>Month Year - Month Year</span>
+                <p>Relevant coursework or accomplishments.</p>
+            </li>
+            <li>
+                <strong>Degree</strong>, University Name
+                <br><span>Month Year - Month Year</span>
+                <p>Relevant coursework or accomplishments.</p>
+            </li>
+        </ul>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>
+                <strong>Project Title</strong>
+                <br><a href="https://link-to-project.com" target="_blank">Project Link</a>
+                <p>Brief description of the project and technologies used.</p>
+            </li>
+            <li>
+                <strong>Project Title</strong>
+                <br><a href="https://link-to-project.com" target="_blank">Project Link</a>
+                <p>Brief description of the project and technologies used.</p>
+            </li>
+        </ul>
+    </section>
+
+</div>
+
+<footer>
+    <p>&copy; 2024 Your Name | <a href="mailto:your.email@example.com">Contact Me</a></p>
+</footer>
+
+</body>
+</html>
